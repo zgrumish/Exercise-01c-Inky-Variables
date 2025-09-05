@@ -80,6 +80,7 @@ The light of your torch glints against rushing water leading further into the ca
 -> END
 
 === coin_pickup ===
+~ coins = coins + 1
 You admire the beautiful insignia of a dragon displayed on the golden coin.
 + [Go back] -> east_tunnel_lit_act_two
 -> END
